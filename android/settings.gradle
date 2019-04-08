@@ -1,0 +1,3 @@
+rootProject.name = 'face_analysis_for_he_2078'
+
+include ':app'
